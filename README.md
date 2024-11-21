@@ -77,6 +77,8 @@ First, it is important to analyze the historical data presented. In 2008, there 
 This question is beneficial to investors because it shows the risks associated with investing in real estate in Wake County. While a common trend of an increase in price per acre over time is expected, the confidence interval and standard deviation express how risky and volatile real estate investments could be.
 
 
+## Presentation:
+[Group9_Project2_Presentation.pdf](https://github.com/user-attachments/files/17852351/Group9_Project2_Presentation.pdf)
+
 ## Tableau Packaged Workbook
 Attached to the submission of this README.
-
