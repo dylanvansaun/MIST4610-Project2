@@ -13,12 +13,12 @@
 ## Dataset Description and Features:
 
 ## Questions and Their Importance:
-# Question 1: How much variation in sale value is based off square footage for different types of real estate?
+### Question 1: How much variation in sale value is based off square footage for different types of real estate?
 
 Importance:
 ![image](https://github.com/user-attachments/assets/502c9b52-a7b5-4245-b2f4-c1489ce38d8d)
 
-# Question 2: For single family individually owned residential households, how has the price per acre changed over time and how do we expect it to change over the next five years?
+### Question 2: For single family individually owned residential households, how has the price per acre changed over time and how do we expect it to change over the next five years?
 
 Importance:
 ![image](https://github.com/user-attachments/assets/5fa76cef-f9d8-4363-8f57-6829471cd609)
